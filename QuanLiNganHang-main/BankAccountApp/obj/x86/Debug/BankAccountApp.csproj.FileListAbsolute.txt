@@ -1,0 +1,33 @@
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.MainForm.resources
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.exe
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.pdb
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.exe.config
+C:\Users\Admin\Downloads\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.exe.config
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.MainForm.resources
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.exe
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.pdb
+C:\Users\Admin\Downloads\BankWinForms48_Final (1)\BankWinForms48_Final\BankAccountApp\obj\x86\Debug\BankAccountApp.UC_KhachHang.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.AssemblyReference.cache
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.MainForm.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.Properties.Resources.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.UC_GiaoDich.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.UC_KhachHang.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.UC_NhanVien.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.UC_QuanLiNganSach.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.UC_ThongKe_NoChart.resources
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.GenerateResource.cache
+F:\DevOOPs\QuanLiNganHang-main\QuanLiNganHang-main\BankAccountApp\obj\x86\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
