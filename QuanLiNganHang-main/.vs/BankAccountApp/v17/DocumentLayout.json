@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|f:\\devoops\\quanlinganhang-main\\quanlinganhang-main\\bankaccountapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\bankaccountapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\bankaccountapp\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\bankaccountapp\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076DB14A-BDFD-4D6B-808A-C16B260C9DCE}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "BankAccountApp\\MainForm.cs",
+              "ToolTip": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\MainForm.cs",
+              "RelativeToolTip": "BankAccountApp\\MainForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:28:14.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "BankAccountApp\\MainForm.cs",
+              "ToolTip": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "BankAccountApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:28:12.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_NhanVien.cs [Design]",
+              "DocumentMoniker": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\UC_NhanVien.cs",
+              "RelativeDocumentMoniker": "BankAccountApp\\UC_NhanVien.cs",
+              "ToolTip": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\UC_NhanVien.cs [Design]",
+              "RelativeToolTip": "BankAccountApp\\UC_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:27:39.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_NhanVien.cs",
+              "DocumentMoniker": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\UC_NhanVien.cs",
+              "RelativeDocumentMoniker": "BankAccountApp\\UC_NhanVien.cs",
+              "ToolTip": "F:\\DevOOPs\\QuanLiNganHang-main\\QuanLiNganHang-main\\BankAccountApp\\UC_NhanVien.cs",
+              "RelativeToolTip": "BankAccountApp\\UC_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:27:37.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
